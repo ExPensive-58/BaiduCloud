@@ -1,0 +1,7 @@
+#百度网盘 解锁在线视频倍率/清晰度。陈゛♥̶₊
+
+[rewrite_local]
+https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user url script-response-body https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Crack/bdcloud.js
+
+[mitm]
+hostname = pan.baidu.com
